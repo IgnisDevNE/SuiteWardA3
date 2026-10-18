@@ -1,0 +1,5 @@
+{
+  "name": "suitewarda3",
+  "private": true,
+  "scripts": { "test": "python3 -m unittest discover -s app -p 'test_*.py'" }
+}
