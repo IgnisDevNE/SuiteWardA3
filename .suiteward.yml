@@ -6,4 +6,3 @@ runner:
   - ".pytest.toml"
   - "conftest.py"
   - "pytest.ini"
-  - "pytest.toml"
