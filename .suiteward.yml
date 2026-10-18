@@ -1,6 +1,8 @@
 version: 1
 include:
+  - "test_*.py"
 runner:
+  - ".pytest.ini"
   - ".pytest.toml"
-  - "conftest.py"
   - "pytest.ini"
+  - "pytest.toml"
