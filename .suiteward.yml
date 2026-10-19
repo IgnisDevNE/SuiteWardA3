@@ -7,3 +7,5 @@ runner:
   - "pytest.ini"
   - "pytest.toml"
   - "conftest.py"
+exclude:
+  - /spec_link
