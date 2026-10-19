@@ -1,6 +1,8 @@
 version: 1
 include:
   - "test_*.py"
+  - "/spec/"
+  - "*_spec.rb"
 runner:
   - ".pytest.ini"
   - ".pytest.toml"

@@ -7,3 +7,5 @@ Acceptance repository for SuiteWard M1.9 (scope discovery). It holds on purpose:
 - `package.json`, a file that may hold test settings;
 - a Python test with no pytest configuration;
 - no `.suiteward.yml`.
+
+The Ruby spec in `spec/` exercises the same function.
