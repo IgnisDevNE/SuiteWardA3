@@ -7,3 +7,4 @@ runner:
   - "pytest.ini"
   - "pytest.toml"
   - "conftest.py"
+  - "jest.config.*"
