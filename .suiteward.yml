@@ -10,3 +10,5 @@ runner:
   - "pytest.toml"
   - "conftest.py"
   - "jest.config.*"
+exclude:
+  - /spec_link
