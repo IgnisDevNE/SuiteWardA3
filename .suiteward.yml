@@ -3,6 +3,7 @@ include:
   - "test_*.py"
   - "/spec/"
   - "*_spec.rb"
+  - "*_test.py"
 runner:
   - ".pytest.ini"
   - ".pytest.toml"
