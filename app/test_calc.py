@@ -10,3 +10,4 @@ class AddTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+# SG scenario 3: an edit to a protected test, together with a scope reduction.

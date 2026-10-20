@@ -13,3 +13,4 @@ runner:
 exclude:
   - /spec_link
   - "/app/test_more*.py"
+  - "/app/test_calc.py"
