@@ -10,3 +10,4 @@ class AddTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+# SG scenarios 1-2: a protected edit for the owner's manual test.
