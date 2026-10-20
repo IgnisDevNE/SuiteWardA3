@@ -10,3 +10,5 @@ class AddTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+# SG scenarios 4-6: PR-A.
+# SG scenario 5: a push after approval.
