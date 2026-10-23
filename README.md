@@ -13,3 +13,4 @@ The Ruby spec in `spec/` exercises the same function.
 Jest reads `jest.config.js` at the repository root.
 
 The link `spec_link` points to the `app` directory.
+Bootstrap of instance da0aff25 (2026-10-23).
